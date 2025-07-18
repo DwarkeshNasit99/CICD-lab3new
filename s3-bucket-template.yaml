@@ -4,7 +4,7 @@ Description: CloudFormation template to create an S3 bucket with versioning.
 Parameters:
   BucketName:
     Type: String
-    Description: Unique name for the S3 bucket.
+    Description: lab3-s3bucket-dwarkesh
   VersioningState:
     Type: String
     AllowedValues:
